@@ -21,8 +21,8 @@
 
 * [Apple ID 商品分类](apple-id/apple-id-shang-pin-fen-lei.md)
 * [疑难解答](apple-id/yi-nan-jie-da/README.md)
-  * [如何下载付费软件？](apple-id/yi-nan-jie-da/ru-he-xia-zai-fu-fei-ruan-jian.md)
-  * [登陆报错解答](apple-id/yi-nan-jie-da/deng-lu-bao-cuo-jie-da.md)
+  * [空白下载号如何下载付费软件？](apple-id/yi-nan-jie-da/ru-he-xia-zai-fu-fei-ruan-jian.md)
+  * [Apple ID 登陆报错解答](apple-id/yi-nan-jie-da/deng-lu-bao-cuo-jie-da.md)
   * [修改密码密保](apple-id/yi-nan-jie-da/xiu-gai-mi-ma-mi-bao.md)
   * [帐号解锁与找回](apple-id/yi-nan-jie-da/zhang-hao-jie-suo-yu-zhao-hui.md)
 
