@@ -26,18 +26,6 @@ App Store 登陆过程中解锁的是登陆帐号，软件更新过程中解锁�
 
 解决：更正输入，如果被盗了就无解
 
-**【此ID未激活】**
-
-2022年12月15日通知
-
-苹果ID由于灰产太多了，苹果公司开始严打！ 所有未使用的账号均有可能出现未激活状态。 如果出现ID停用，请按照以下方式激活。
-
-1、新购和质保期内账号，请联系客服更换或者激活
-
-2、已过质保期，请客服拨打下方电话激活，也可以拨打苹果官方，但注意苹果是有休息时间的
-
-![](https://docs.itestfight.com/~gitbook/image?url=https%3A%2F%2F1351502034-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FAb97gH9BCchrvaGyMp3g%252Fuploads%252Fteo7xG9vauDr5vKAHBe6%252Fimage.png%3Falt%3Dmedia%26token%3D2bdb08ec-f685-404e-8802-3bdd29a8d151\&width=300\&dpr=4\&quality=100\&sign=ca0cef6fbc344900ea74540b1c6324cd6bf274bf69cfbed281ae3bf1b7614f85)
-
 **【提示已绑定手机】**
 
 苹果ID在绑定手机号的48小时内可以解绑，点击”不认识此号码“，然后输入密保信息（卡密或商品详情页有提供）
