@@ -1,16 +1,36 @@
 ---
 description: >-
-  2026年8月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀
+  2026年9月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀
   免费节点，🚀
   每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点，谷歌商店，翻墙梯子，Openai
   ChatGPT账号,代理
 coverY: 0
 ---
 
-# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年8月11日）
+# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年9月13日）
 
 * [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 * 美区 AppleID 成品独享账号：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（付费共享号近期不稳定已下架，**账号购买后可以修改密码、密保，并永久使用**）
+
+***
+
+> * **适合谁：** 怕麻烦、不想折腾虚拟卡、不是iPhone用户、或者就想快点搞定的朋友。
+
+* [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus。**
+* [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
+* [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
+* [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
+
+> 通过正规渠道 2 分钟内即可完成 ChatGPT 充值，让每个人都能轻松订阅 ChatGPT Plus/Pro。
+>
+> **使用的时候如果需要手机号接码验证，需要自行解决该问题，该情况为官方风控账号，跟订阅无关。**
+>
+> ⚠️请注意:如果账号被封禁则无法质保,一般是账号或者使用问题，无法处理。
+>
+> * **充值失败全额退款**：充值失败 100% 全额退款，请放心使用我们的服务。
+> * **无需海外信用卡**：没有海外信用卡也不用愁，支付宝/微信即可完成 ChatGPT Plus 代充，人人都能轻松开通。
+> * **安全可靠保障**：正规代充渠道，无需提供账号密码，全程保护您的账户信息安全。
+> * **极速到账**：通常 1–5 分钟内完成充值到账，Plus/Pro/Codex 全自动处理。
 
 ## 目录导航
 
@@ -20,7 +40,8 @@ coverY: 0
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
 2. [免费机场](free-shadowrocket.md#mian-fei-ji-chang) （白嫖 60GB/月）
-3. [FlyingBird](free-shadowrocket.md#flyingbird-bo-zhu-zai-yong) ：春节促销活动开始，最低可达**8折**优惠
+3. [付费机场推荐](free-shadowrocket.md#fu-fei-ji-chang)：稳定省心
+   * [FlyingBird](free-shadowrocket.md#flyingbird-bo-zhu-zai-yong)中秋优惠活动终于来了！！！
 
 ## 前言声明
 
@@ -33,7 +54,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 * [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 * [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 * [2026年最高性价比电信移动联通流量卡推荐](https://www.wangdu.site/fuliyouhui/2112.html)
-* [IPTV](https://www.wangdu.site/software/av-read/339.html): 2026年6月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+* [IPTV](https://www.wangdu.site/software/av-read/339.html): 2026年9月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 🔥推荐Ti子服务器
 
@@ -235,15 +256,6 @@ PS：**最好月付，防止跑路！**
 * 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 * 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 
-{% hint style="info" %}
-飞鸟春节活动开启！！！
-
-1. 月/季/半年付 85折 , 优惠码：`fbcj2685` （可重复使用5次）
-2. 年付8折（站内折上折，高达64折 ）优惠码：`fbcj2680`（可重复使用5次）
-
-活动时间：即日至2026年3月08日23点59分
-{% endhint %}
-
 套餐：
 
 * 10元/月（年付￥99）
@@ -277,12 +289,8 @@ YepFast解锁图
 * 备用网址: [FlyingBird](https://web02.fbcn.pro/auth/register?code=jvQ5)
 
 {% hint style="info" %}
-飞鸟双十一活动开启！！！上活动！！！
-
-1. 月/季/半年付 85折 , 优惠码：`fb25111185`（可重复使用5次）
-2. 年付8折（站内折上折，高达64折 ）优惠码：`fb25111180` （可重复使用5次）
-
-活动时间：即日至 2025年11月30日23点59分
+1. 月/季/半年付 85折 , 优惠码：`fbzq2685`（可重复使用5次）
+2. 年付8折（站内折上折，高达64折 ）优惠码：`fbzq2680` （可重复使用5次）
 {% endhint %}
 
 套餐：
@@ -339,8 +347,6 @@ FlyingBird测速图
 鹿语云解锁图
 
 <img src=".gitbook/assets/luyuyun-jiesuo.jpg" alt="" data-size="original">
-
-
 
 </details>
 

@@ -1,10 +1,10 @@
 ---
 description: >-
-  2026年8月更新，国内直播源，五星体育直播源，TVBox直播源，EPG节目单，自带直播源播放工具，IPTV电视直播源、APTV电视直播源、IPTV直播软件、IPTV直播源M3U、TV观看工具,iptv最新可用直播源iptv4/iptv6,IPTV图标库,电视家替代APP
+  2026年9月更新，国内直播源，五星体育直播源，TVBox直播源，EPG节目单，自带直播源播放工具，IPTV电视直播源、APTV电视直播源、IPTV直播软件、IPTV直播源M3U、TV观看工具,iptv最新可用直播源iptv4/iptv6,IPTV图标库,电视家替代APP
 icon: tv-retro
 ---
 
-# 超全IPTV、APTV、TVBox直播源和TV观看工具（2026年8月11日）
+# 超全IPTV、APTV、TVBox直播源和TV观看工具（2026年9月13日）
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
@@ -1132,33 +1132,21 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 1.  安装TVBOX，安装完以后什么都无法观看 - 需要配置地址
 
-
-
     ![TVBox首页](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071402886.webp)
 2.  TVBOX配置地址：首先打开右上角的`设置⚙`按钮
-
-
 
     ![TVBox设置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071402510.webp)
 3.  选中`配置地址`
 
-
-
     ![TVBox配置地址](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071402793.webp)
 4.  获取`存储权限` - 提示获取成功
-
-
 
     ![TVBox存储权限](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071403650.webp)
 5. 然后用手机或者电脑扫描二维码或者填入上面👆 Json 数据源地址即可
 6.  TVBOX使用：如果数据源失效了，可以自定义数据源
 
-
-
     ![TVBox设置完数据源首页展示](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071405823.webp)
 7.  切换数据源：点击`首页` - 选择数据源
-
-
 
     ![TVBox选择数据源](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071405434.webp)
 
