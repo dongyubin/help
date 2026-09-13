@@ -207,7 +207,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### 免费机场
 
-* [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，8月白嫖码：`飞天螳螂`
+* [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，9月白嫖码：`吉利蛋`
 
 ### 免费clash订阅链接
 
