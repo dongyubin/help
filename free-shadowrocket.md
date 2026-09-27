@@ -7,7 +7,7 @@ description: >-
 coverY: 0
 ---
 
-# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年9月13日）
+# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年9月27日）
 
 * [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 * 美区 AppleID 成品独享账号：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（付费共享号近期不稳定已下架，**账号购买后可以修改密码、密保，并永久使用**）
@@ -17,9 +17,9 @@ coverY: 0
 > * **适合谁：** 怕麻烦、不想折腾虚拟卡、不是iPhone用户、或者就想快点搞定的朋友。
 
 * [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus。**
-* [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
+* [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2.5、GPT-6 Astra等与官方功能保持一致
 * [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
-* [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
+* [~~【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀~~](https://shop.wwkejishe.top/buy/51) ~~：充值到个人账号~~
 
 > 通过正规渠道 2 分钟内即可完成 ChatGPT 充值，让每个人都能轻松订阅 ChatGPT Plus/Pro。
 >
@@ -256,6 +256,21 @@ PS：**最好月付，防止跑路！**
 * 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 * 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 
+{% hint style="info" %}
+⭐️ 活动时间：即日起至2026/10/8 23:59&#x20;
+
+⭐️ **活动内容：**
+
+* 季付/半年付85折，优惠码：`202685`
+* 年付8折，优惠码：`202680`
+
+⭐️ **活动说明：**&#x20;
+
+1. 季/半年付升级年付会自动折抵金额 (多退少补)&#x20;
+2. 未到期用户可用优惠码提前续费，享优惠折扣&#x20;
+3. 仅限在售套餐，其他套餐不参与本次活动
+{% endhint %}
+
 套餐：
 
 * 10元/月（年付￥99）
@@ -291,6 +306,8 @@ YepFast解锁图
 {% hint style="info" %}
 1. 月/季/半年付 85折 , 优惠码：`fbzq2685`（可重复使用5次）
 2. 年付8折（站内折上折，高达64折 ）优惠码：`fbzq2680` （可重复使用5次）
+
+活动时间：即日至2026年9月30日23点59分
 {% endhint %}
 
 套餐：
