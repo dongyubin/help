@@ -1,8 +1,8 @@
 ---
-description: 2026年8月更新，IPTV自带直播源播放工具，替代电视家直播的APP,电视家,APP
+description: 2026年10月更新，IPTV自带直播源播放工具，替代电视家直播的APP,电视家,APP
 ---
 
-# IPTV自带直播源播放工具，替代电视家直播的APP（2026年8月11日）
+# IPTV自带直播源播放工具，替代电视家直播的APP（2026年10月11日）
 
 ![IPTV自带直播源播放工具，替代电视家直播的APP](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 

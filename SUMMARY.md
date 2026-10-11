@@ -1,14 +1,14 @@
 # Table of contents
 
 * [文武帮助中心](README.md)
-* [最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年9月27日）](free-shadowrocket.md)
-* [超全IPTV、APTV、TVBox直播源和TV观看工具（2026年9月27日）](iptv.md)
+* [最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年10月11日）](free-shadowrocket.md)
+* [超全IPTV、APTV、TVBox直播源和TV观看工具（2026年10月11日）](iptv.md)
 * [Just My Socks:搬瓦工官方2026最新翻墙服务，多条线路，IP不怕被墙，支持ChatGPT](justmysocks.md)
 * [【国内暂无现货，已下架】可在中国漫游的新西兰Skinny电话卡，免费收短信保号成本低](skinny.md)
 
 ## IPTV <a href="#iptv-all" id="iptv-all"></a>
 
-* [IPTV自带直播源播放工具，替代电视家直播的APP（2026年8月11日）](iptv-all/tv-app.md)
+* [IPTV自带直播源播放工具，替代电视家直播的APP（2026年10月11日）](iptv-all/tv-app.md)
 * [TVBox播放工具、播放源、使用教程](iptv-all/tvbox.md)
 * [不同品牌电视机顶盒和电视机安装第三方应用软件的安装方法](iptv-all/tv-other-app.md)
 * [天光云影添加直播源](iptv-all/tian-guang-yun-ying-tian-jia-zhi-bo-yuan.md)
