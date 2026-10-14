@@ -21,4 +21,10 @@ coverY: 0
 7. [黑苹果专用引导镜像（从Sierra到Ventura）](https://shop.wwkejishe.top/buy/3)
 8. [美区官方苹果礼品卡 10 美元 | Apple Gift Card | 苹果礼品卡购买](https://shop.wwkejishe.top/buy/17)
 
+### ChatGPT Plus、Pro 微信、支付宝充值
+
+1. [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus**
+2. [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
+3. [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="https://app.gitbook.com/o/3PrYE6IXgKOMdaTKp8v0/s/c3adF2HKV2c08ZU6xt5z/">文武VPS推荐</a></td><td><a href=".gitbook/assets/vps-social-card.png">vps-social-card.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="free-shadowrocket.md">free-shadowrocket.md</a></td><td><a href=".gitbook/assets/shadowrocket-shared-account.webp">shadowrocket-shared-account.webp</a></td></tr><tr><td></td><td></td><td></td><td><a href="skinny.md">skinny.md</a></td><td><a href=".gitbook/assets/skinny.webp">skinny.webp</a></td></tr></tbody></table>
