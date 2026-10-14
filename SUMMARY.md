@@ -38,8 +38,12 @@
 
 ## 百度网盘 <a href="#baidu" id="baidu"></a>
 
-* [网盘下载不限速工具（2026年9月27日）](baidu/baidu-wangpan-download.md)
+* [网盘下载不限速工具（2026年10月14日）](baidu/baidu-wangpan-download.md)
 * [网盘不限速下载（稳定解析）](baidu/baidu-wangpan-wending.md)
+
+## 🤖 ChatGPT
+
+* [【2026.10亲测可用】支付宝/微信充值 ChatGPT Plus/Pro、体验 Astra、Sol、Terra、Luna｜代充完整指南](chatgpt/2026.10-qin-ce-ke-yong-zhi-fu-bao-wei-xin-chong-zhi-chatgpt-pluspro-ti-yan-astrasolterraluna-dai-cho.md)
 
 ## 文档中心 <a href="#knowledge" id="knowledge"></a>
 
