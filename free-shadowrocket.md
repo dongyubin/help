@@ -1,13 +1,13 @@
 ---
 description: >-
-  2026年10月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀
+  2026年11月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀
   免费节点，🚀
   每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点，谷歌商店，翻墙梯子，Openai
   ChatGPT账号,代理
 coverY: 0
 ---
 
-# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年10月11日）
+# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年11月2日）
 
 * [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 * 美区 AppleID 成品独享账号：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（付费共享号近期不稳定已下架，**账号购买后可以修改密码、密保，并永久使用**）

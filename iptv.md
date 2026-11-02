@@ -1,10 +1,10 @@
 ---
 description: >-
-  2026年10月更新，国内直播源，五星体育直播源，TVBox直播源，EPG节目单，自带直播源播放工具，IPTV电视直播源、APTV电视直播源、IPTV直播软件、IPTV直播源M3U、TV观看工具,iptv最新可用直播源iptv4/iptv6,IPTV图标库,电视家替代APP
+  2026年11月更新，国内直播源，五星体育直播源，TVBox直播源，EPG节目单，自带直播源播放工具，IPTV电视直播源、APTV电视直播源、IPTV直播软件、IPTV直播源M3U、TV观看工具,iptv最新可用直播源iptv4/iptv6,IPTV图标库,电视家替代APP
 icon: tv-retro
 ---
 
-# 超全IPTV、APTV、TVBox直播源和TV观看工具（2026年10月11日）
+# 超全IPTV、APTV、TVBox直播源和TV观看工具（2026年11月2日）
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
