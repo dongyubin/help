@@ -54,7 +54,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 * [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 * [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 * [2026年最高性价比电信移动联通流量卡推荐](https://www.wangdu.site/fuliyouhui/2112.html)
-* [IPTV](https://www.wangdu.site/software/av-read/339.html): 2026年10月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+* [IPTV](https://www.wangdu.site/software/av-read/339.html): 2026年11月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 🔥推荐Ti子服务器
 
@@ -207,7 +207,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### 免费机场
 
-* [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，10月白嫖码：`赫拉克罗斯`
+* [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，11月白嫖码：`咕咕`
 
 ### 免费clash订阅链接
 
