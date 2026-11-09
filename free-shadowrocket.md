@@ -7,7 +7,7 @@ description: >-
 coverY: 0
 ---
 
-# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年11月2日）
+# 最新免费共享小火箭账号/已购shadowrocket共享Apple ID，小火箭账号购买，美区小火箭（2026年11月9日）
 
 * [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 * 美区 AppleID 成品独享账号：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（付费共享号近期不稳定已下架，**账号购买后可以修改密码、密保，并永久使用**）
@@ -380,9 +380,9 @@ PS：最好月付，防止跑路！
 
 ### 云界线
 
-[云界线](https://itxh888.yunjiexianaff.com/#/?code=wqRJd4No)（60+节点，流媒体全解锁！全节点解锁chatgpt！）
+[云界线](https://itxh888.yunjiexianaff.com/#/?code=BAZI2UhW)（60+节点，流媒体全解锁！全节点解锁chatgpt！）
 
-* [官网地址](https://itxh888.yunjiexianaff.com/#/?code=wqRJd4No)
+* [官网地址](https://itxh888.yunjiexianaff.com/#/?code=BAZI2UhW)
 
 > **新客享受7折优惠. 收单低至13.92**
 >
