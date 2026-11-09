@@ -41,7 +41,6 @@ coverY: 0
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
 2. [免费机场](free-shadowrocket.md#mian-fei-ji-chang) （白嫖 60GB/月）
 3. [付费机场推荐](free-shadowrocket.md#fu-fei-ji-chang)：稳定省心
-   * [FlyingBird](free-shadowrocket.md#flyingbird-bo-zhu-zai-yong)中秋优惠活动终于来了！！！
 
 ## 前言声明
 
@@ -207,7 +206,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### 免费机场
 
-* [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，11月白嫖码：`咕咕`
+* [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥7.9，11月白嫖码：`咕咕`
 
 ### 免费clash订阅链接
 
@@ -251,34 +250,26 @@ PS：**最好月付，防止跑路！**
 
 ### YepFast（博主在用👍🏻）
 
-[YepFast](https://portal.yepfast2.cc/#/register?code=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](free-shadowrocket.md#shadowrocket-zhang-hao) 使用
+[YepFast](https://g8n2thko.yepfast.link) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要下载小火箭使用（稳定极速，40+节点，高端节点，海外团队，安全可靠）
 
-* 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
-* 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
-
-{% hint style="info" %}
-⭐️ 活动时间：即日起至2026/10/8 23:59&#x20;
-
-⭐️ **活动内容：**
-
-* 季付/半年付85折，优惠码：`202685`
-* 年付8折，优惠码：`202680`
-
-⭐️ **活动说明：**&#x20;
-
-1. 季/半年付升级年付会自动折抵金额 (多退少补)&#x20;
-2. 未到期用户可用优惠码提前续费，享优惠折扣&#x20;
-3. 仅限在售套餐，其他套餐不参与本次活动
-{% endhint %}
+* 备用网址：[YepFast](https://g8n2thko.yepfast.link)
 
 套餐：
 
-* 10元/月（年付￥99）
-* 150G 流量/月
-* 20+ 椰汁畅享中继线路
-* 解锁 Netflix、Disney+、ChatGPT
-* 不限设备数量，不保证带宽速度
-* 每月购买日免费重置流量
+* 11.9元/月（年付￥120）
+* 160G 流量/月
+* 40+ 椰汁畅享中继线路
+* 支持港澳台及国外地区使用
+* 完美使用海外流媒体 及 AI 服务
+* 不限本人设备数，最高500Mbps速率
+
+> **节点使用 AnyTLS 协议**，请确保您的第三方客户端为最新版本，以正常使用。如无法使用请点击帮助，使用官方客户端。
+>
+> 不支持的客户端：
+>
+> * Clash for Windows（内核过旧需更换）
+> * 远古版本的 ClashX、Clash Meta、Clash for Android（内核过旧需更新）
+> * Hiddify、v2rayNG、Xray 等不支持 AnyTLS 协议的内核及客户端
 
 <details>
 
@@ -296,19 +287,11 @@ YepFast解锁图
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=jvQ5)
+[FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=jvQ5)（70+节点，全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！全节点解锁chatgpt！）
 
-* 备用网址: [FlyingBird](https://www.fbweb.cc/auth/register?code=jvQ5)
 * 备用网址: [FlyingBird](https://fbweb02.flyingbird.la/auth/register?code=jvQ5)
 * 备用网址: [FlyingBird](https://fbweb02.flyingbird.id/auth/register?code=jvQ5)
 * 备用网址: [FlyingBird](https://web02.fbcn.pro/auth/register?code=jvQ5)
-
-{% hint style="info" %}
-1. 月/季/半年付 85折 , 优惠码：`fbzq2685`（可重复使用5次）
-2. 年付8折（站内折上折，高达64折 ）优惠码：`fbzq2680` （可重复使用5次）
-
-活动时间：即日至2026年9月30日23点59分
-{% endhint %}
 
 套餐：
 
@@ -332,18 +315,18 @@ FlyingBird测速图
 
 ### 鹿语云（IEPL专线机场，博主在用）
 
-[鹿语云](https://xn--9kqu90mqwl.com/register?code=CZoLVxMH)：（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
+[鹿语云](https://czolvxmh.luyuyun.link)：（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
 
-* 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
+* 备用地址：[鹿语云](https://czolvxmh.luyuyun.link)
 
 **活动内容如下：**
 
-* 月/季/半年付85折，优惠码：`luyu85`
-* 年付8折，优惠码：`luyu8`
+* 季付/半年付85折，优惠码：`202685`
+* 年付8折，优惠码：`202680`
 
 **活动有效期：**
 
-即日起至 2025/10/15 23:59
+即日起至 2026/10/8 23:59
 
 套餐
 
@@ -367,29 +350,6 @@ FlyingBird测速图
 
 </details>
 
-### 可乐云（博主在用）
-
-[可乐云机场](https://su.colac.fun/?path=register\&code=LaT1fen2)，成立于2020年，是一款快速、稳定的网络加速器。本产品特点支持主流电脑端一键app加速，可免去第三方客户端的复杂配置问题。游戏、软件全时段享用、流媒体当地全解锁，畅游网络世界。
-
-* 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
-
-套餐
-
-* 100G / 15.9元 / 1月（年付：118元）
-* 300G / 19.9元 / 1月（年付：168元）
-* 地区：香港、台湾、日本、美国
-* 不限连接数
-
-<details>
-
-<summary>可乐云测速图</summary>
-
-可乐云测速图
-
-<img src=".gitbook/assets/keleyun.png" alt="" data-size="original">
-
-</details>
-
 ### 一元机场
 
 [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=HUliZ7Oi)：适用追求价格便宜，对上外网需求不大，稳定性不高；求稳请看上面几款付费机场
@@ -402,6 +362,167 @@ FlyingBird测速图
 * 解锁 Netflix, Disney+
 * 不限速，不限连接数
 * 请知悉无退款服务
+
+## 国内访问国外服务
+
+PS：最好月付，防止跑路！
+
+> 都有自家的客户端，需要订阅链接的可以联系客服
+
+### 云界线
+
+[云界线](https://itxh888.yunjiexianaff.com/#/?code=wqRJd4No)（60+节点，流媒体全解锁！全节点解锁chatgpt！）
+
+* [官网地址](https://itxh888.yunjiexianaff.com/#/?code=wqRJd4No)
+
+> **新客享受7折优惠. 收单低至13.92**
+>
+> 云界线采用全 IPLC 专线，年付 96 元每月 60GB，月付 22 元起提供每月 150GB 流量。单节点峰值最高 2.5Gbps，支持原生 IP、主流 AI 与流媒体服务解锁，不限制同时使用客户端数量。
+
+### 环球梯
+
+[环球梯](https://itxh888.huanqiutiaff.com/#/?code=JkQ1UMPO)
+
+* [官网地址](https://itxh888.huanqiutiaff.com/#/?code=JkQ1UMPO)（7折优惠码：`HQ66`）
+
+> 环球梯是一家主打低价的国内可用便宜机场，套餐为月付 15 元 60GB、19 元 110GB，另有年付与按量可选。全线采用 VLESS + 专线架构，节点覆盖香港、台湾、日本、新加坡、美国等 60+ 地区，常用流媒体与 ChatGPT 等 AI 服务可解锁，支持支付宝、微信付款，不限制设备数量。注册后在用户中心复制订阅链接即可导入 Shadowrocket（小火箭）、Clash 等第三方客户端，也可通过客服或工单获取订阅地址。
+
+* 套餐灵活：月付、年付和按量套餐均可选择，最低 ¥8/月
+* 流量充足：提供每月 60GB—600GB 不同档位
+* 多设备支持：设备无限制
+* 应用支持：部分套餐支持常用流媒体与 AI 服务
+* 用户覆盖广：适合学生、个人用户、家庭共享及高流量用户
+* 硬核线路与协议：全线采用最新 VLESS 协议 + 纯专线 架构，晚高峰轻松跑满 4K/8K，敏感时期抗封锁能力强。
+* 节点丰富与解锁：覆盖港/台/日/新/美等60+ 核心节点，全解锁 Netflix、Disney+ 及 ChatGPT 等 AI 服务。
+* 支付便捷：支持支付宝、微信
+
+### 跨界云
+
+[跨界云](https://itxh888.kuajieaff.com/#/?code=HAYHRxLw)
+
+* [官网地址](https://itxh888.kuajieaff.com/#/?code=HAYHRxLw)
+
+> 跨界云是 2026 年新开的机场，节点覆盖香港、新加坡、日本、美国、台湾 5 个地区，共 50 个节点。官方客户端全平台可用，邮箱密码登录就能用，不需要订阅链接；习惯用 Clash、小火箭的也能直接导入。
+
+套餐
+
+* 下单时填优惠码： `kuajie` 可打 8 折（新老用户都能用，月付到三年付、流量重置都适用，没有到期时间。）
+* 以下两档不参加优惠码：跨界年付版 ¥96/60GB、跨界·不限时包 ¥200/300GB。
+* 跨界年付版 ¥150/100GB 能否用码以结算页为准。
+
+节点与速度
+
+* 节点：香港 15 个、新加坡 10 个、日本 10 个、美国 10 个、台湾 5 个。
+* 官方 2026 年 8 月 2 日晚 9 点（晚高峰）的测速报告：（以下为官方测速报告，实际速度以你所在地区网络为准。官方说明：全部节点 1 倍率计费，标称流量即可用流量。）
+  * 香港 153–235 MB/s
+  * 新加坡 105–180 MB/s
+  * 日本 93–152 MB/s
+  * 台湾 73–103 MB/s
+  * 美国 36–64 MB/s；
+  * YouTube、Netflix、Disney+ 50 个节点全部解锁。
+
+### 无忧链接
+
+[无忧链接](https://itxh888.worryfreeaff.com/#/?code=z3Ys3Jv2)：2025 年开业的 IPLC 专线机场，海外团队运营，全线 VLESS 协议。解锁 ChatGPT、Gemini 等 AI 服务与 Netflix、Disney+、YouTube 等流媒体，TikTok 多地区可用；不限速、不限制同时在线设备数量，全天客服轮班。
+
+* [官网地址](https://itxh888.worryfreeaff.com/#/?code=z3Ys3Jv2)
+* [无忧链接落地页](https://wyit.site/)：套餐对比、优惠说明、客户端导入与常见问题
+
+| 项目     | 说明                                      |
+| ------ | --------------------------------------- |
+| 开业时间   | 2025 年                                  |
+| 线路类型   | IPLC 专线                                 |
+| 协议支持   | VLESS                                   |
+| 节点入口   | 港 / 台 / 新 / 日 / 美，另覆盖东南亚及欧美多个国家         |
+| 流媒体解锁  | Netflix、Disney+、YouTube 等               |
+| 客户端支持  | Clash、Shadowrocket（小火箭）、Sing-box、v2rayN |
+| 限速情况   | 无速率限制                                   |
+| 同时在线设备 | 不限制                                     |
+| 支付方式   | 支付宝 / 微信 / USDT                         |
+| 客服支持   | 全天客服轮班、Telegram 在线客服                    |
+
+套餐
+
+| 套餐     | 月流量   | 月付  | 季付  | 半年付 | 年付   |
+| ------ | ----- | --- | --- | --- | ---- |
+| mini链接 | 40GB  | —   | —   | —   | 79   |
+| 舒心链接   | 100GB | 19  | 51  | 96  | 182  |
+| 省心链接   | 200GB | 33  | 89  | 168 | 316  |
+| 随心链接   | 500GB | 77  | 207 | 392 | 739  |
+| 忘忧链接   | 1TB   | 117 | 315 | 596 | 1123 |
+
+> ⭐️ **活动内容：** 全线订阅 6.8 折，优惠码：`wuyou666`（79 元年付包不参与）
+
+特点
+
+* 提供 40GB 轻量档，折合低至 ¥6/月起，适合用量小的用户
+* 订阅链接无需转换，iOS / 安卓 / Windows / macOS 客户端可直接导入
+* 套餐无倍率、不限速、不限制设备数量
+* 可做跨境电商、TikTok 运营与直播，TikTok 多地区可用
+* Netflix / Disney+ / YouTube 稳定性和兼容性在线
+* 支持支付宝 / 微信 / USDT 支付
+
+## 国外访问国内服务（一键回国）
+
+### 快帆
+
+[快帆加速器](https://af.kuaifan.club/scripts/chm1f4?a_aid=68381ef23e3a7\&a_bid=cdf44841)：给海外用户把网络“切回中国大陆”，解锁仅限大陆 IP 的视频（打开爱奇艺优酷或腾讯视频，经常显示 **「您所在的地区无法观看该视频」** 想看却看不了？）/音乐（网易云音乐、QQ音乐，歌单总是灰色？）/直播/办公/社交等内容；支持按应用加速。
+
+<details>
+
+<summary>快帆详细介绍（点我展开）</summary>
+
+#### 适用场景
+
+* **定位**：给海外用户把网络“切回中国大陆”，解锁仅限大陆 IP 的视频/音乐/直播/办公/社交等内容；支持按应用加速。
+* **平台覆盖**：提供 Android / iOS / Windows / macOS / Android TV 客户端。
+
+#### 关键功能与特性
+
+* **按应用走代理**：Android 端可选择哪些 App 使用代理。
+* **线路与模式**：宣称 **150+ 加速线路**、含“游戏专线/直连/中转”等，iOS 端强调 **Fanster™ 专线**。
+* **并发设备**：**同一账号最多 3 台设备同时在线**（设备类型不限制）。支持企业/团队**扩容并发**与**定制独享大陆 IP 专线**。
+* **TV 大屏**：有独立 **Android TV** 客户端，适配机顶盒/智能电视。
+
+#### 价格与退款（以实际页面为准）
+
+* **官网套餐页**（人民币）：**360 天 ¥480、90 天 ¥125、30 天 ¥45**。
+* **iOS 内购**（美元示例）：**年 $55.99–74.99、季 $12.99、月 $4.49–6.99**（页面会随地区/版本变动）。
+* **退款政策**：官网帮助中心写明 **7 天内可退**；按已用天数+约 **6% 手续费**扣除；App Store 购入需按苹果规则。自动续费条款也在服务协议中单列（自动扣费期内通常**不退**）。
+
+#### 隐私与口碑
+
+* App Store 隐私页：可能用于追踪的数据含联系方式、标识符等；开发者名显示 **Beijing next generation access Acceleration CO.LTD**。
+* Google Play“数据安全”页：声明**不与第三方共享数据**；应用可能收集个人/财务信息、设备 ID 等。开发者信息显示 **BOHAN TECHNOLOGY LIMITED / KuaiFan Global**。
+* **评分参考**：iOS 约 **4.8/5（\~926 评）**；Google Play 约 **4.5/5（\~885 评，10万+ 下载）**。口碑受地区/时段/线路影响波动较大。
+
+#### 快速优缺点
+
+**优点**
+
+多平台一键用、移动端有**免费线路**可试；3 端并发；提供企业定制（并发/独享大陆 IP）。
+
+**注意/不足**
+
+* **主要面向“回国”方向**；游戏加速效果依网络与地区差异较大（官方也建议换线路/环境排障）。
+* 价格在同类中属中等偏上；不同渠道（官网/内购）价格与退款规则不一致，购买前需核实。
+
+</details>
+
+### Malus
+
+Malus 加速器官网：[Malus](https://getmalus.com/buy?affid=A328464971F)
+
+* 身在海外玩国服游戏延迟高经常掉线？玩游戏、听音乐、看直播，经常延迟高、卡顿丢包、无法连接和播放？用 [Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器一键加速，超低延迟不丢包，畅玩全球游戏，提高网络稳定性。加速王者荣耀、魔兽世界、LOL英雄联盟 、原神、和平精英、永劫无间、剑网3、CS:GO等等国服/美服/亚服/欧服国际服游戏、还可以加速优酷、Bilibili、爱奇艺、腾讯视频、QQ音乐、网易云音乐、酷狗音乐、CCTV、腾讯体育NBA、YY语音、央视CCTV、咪咕视频、OBS、直播姬等平台。
+* **全平台支持，随时随地回国加速**：[Malus](https://getmalus.com/buy?affid=A328464971F) 加速器，现已全面支持苹果iPhone & iPad移动设备、Android手机、Windows PC系列、苹果 macOS 电脑、也可以支持 Android 系统的TV电视盒子。确保您在任何一个设备和平台上都可以顺畅加速回国。
+* **一键智能加速**：[Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器使用独创的边缘节点技术加速，服务器智能分流，按需加速，效果稳定快速。智能加速模式，系统自动根据您所在地区自动选择最佳节点。
+* **国际高速线路，超稳定，低延迟**：[Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器在全球提供上百条高速线路，实时监控带宽流量动态调整，保证节点通道畅通，不限流量，不限时长，满足各个地区和国家的加速需求。线路动态分配，自动选择最优，为您提供沉浸式加速体验。
+
+### 穿梭
+
+[穿梭](https://www.transocks.com/payment?affiliate-code=m75z3zj) 成立于2017年，也是一款老牌回国VPN，在全球部署了100多条回国专线，采用先进的智能选择线路技术，连接稳定且速度较快，支持Windows、Mac、iOS、Android和智能电视等设备，价格相对较为便宜，每天仅需0.72元，也提供24/7中文在线客服。
+
+* 穿梭现已全面支持iPhone & iPad、Android手机、Windows、macOS、Android电视盒子，更有浏览器插件可供选择
 
 ## Shadowrocket小火箭账号
 
@@ -417,15 +538,17 @@ FlyingBird测速图
 
 ### 共享苹果ID站点
 
-<figure><img src=".gitbook/assets/shadowrocket-shared-account.webp" alt=""><figcaption><p>2025最新iOS免费小火箭ShadowRocket共享账号</p></figcaption></figure>
+<figure><img src=".gitbook/assets/shadowrocket-shared-account.webp" alt=""><figcaption><p>2026年最新iOS免费小火箭ShadowRocket共享账号</p></figcaption></figure>
 
-此为第三方站长，只做分享，不保证质量安全，不解决使用中出现的问题
+**此为第三方站长，只做分享，不保证质量安全，不解决使用中出现的问题**
 
-* [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket、stash、Quantumult X、不带收费App的美区账号、台湾区、日本区、韩国区、香港区账号
-* [最新小火箭账号/已购shadowrocket id共享Apple ID](https://shenhouyun.com/ios/)
-* [宝盒](https://ccbaohe.com/appleID/)
-* [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
-* [免费小火箭下载，共享小火箭账号，共享shadowrocket账号，已购shadowrocket免费Apple ID - TK宝盒](https://tkbaohe.com/Shadowrocket/)
+**🔴️ 使用免费共享苹果账号必须从 App Store 登录，千万不要登录「iCloud」，否则可能导致锁机或者隐私泄漏！**
+
+* ~~免费共享shadowrocket小火箭账号：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区、俄罗斯账号~~
+* ~~AneeoApple：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取~~
+* [Shadowrocket共享账号 - 免费小火箭Apple ID分享 | iOS下载教程](https://shadowrocket.best/)
+* [【免费】2026 小火箭共享账号 | 美区ID / 苹果ID共享 (已购Shadowrocket) - 翻墙男](https://fanqiangnan.com/appleid.html)
+  * 提供 **已购 Shadowrocket 的美区 Apple ID**，同时覆盖 **港区 / 日区 / 台区**，账号状态 **每 30 分钟自动检测并更新**
 
 ### 使用教程
 
@@ -640,6 +763,64 @@ Cloudflare WARP 是一种由Cloudflare推出的网络加速和安全服务，旨
 * [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
 * [文武软件百科](https://wiki.wangdu.site/)：致力于软件的百科全书
 * [文武帮助中心](https://help.wwkejishe.top/)：包含小火箭共享账号及使用教程、IPTV直播源、Skinny电话卡
+
+## 常见问题
+
+### 为什么不能在"设置"中登录小火箭共享账号？
+
+在"设置"中登录shadowrocket apple id会同步iCloud数据，可能导致您的个人数据泄露或被覆盖。小火箭共享账号仅应在App Store中使用。
+
+### shadowrocket共享账号提示"已锁定"或"密码错误"？
+
+小火箭共享账号可能因使用人数过多而被临时锁定。请等待页面自动更新新的shadowrocket apple id，或稍后再试。本站每小时都会检测小火箭共享账号可用性并自动更新。
+
+### 如何获取shadowrocket节点订阅链接？
+
+订阅链接是包含多个节点配置信息的URL地址，Shadowrocket可以通过订阅链接自动导入所有节点。您可以通过以下方式获取订阅链接：
+
+* **🏆 购买稳定机场**（推荐）- 注册机场服务商账号后，在用户中心或订阅页面可以找到订阅链接，复制后添加到Shadowrocket即可。选择稳定可靠的机场服务商，确保节点质量和稳定性。
+* ❌ 搜索不稳定的节点分享网站（不推荐）- 这些网站的节点通常质量差，频繁掉线、速度慢、经常失效，不适合长期使用
+* ⚙️ 自建服务器生成订阅（需要技术能力）- 如果您有自己的VPS服务器，可以自行搭建代理服务并生成订阅链接
+
+获取订阅链接后，按照上方"订阅链接导入"部分的步骤操作即可完成配置。
+
+### 连接后无法上网怎么办？
+
+可能的原因和解决方案：
+
+1. 节点失效 - 尝试切换其他节点
+2. 订阅过期 - 联系服务商续费
+3. 路由设置问题 - 检查全局路由设置
+4. 网络限制 - 尝试切换WiFi或移动网络
+
+### Windows/macOS/Linux电脑操作系统如何使用shadowrocket？
+
+Shadowrocket 只适用于iOS系统，电脑端无法直接使用小火箭。如果您需要在 Windows、macOS 或 Linux 电脑上使用代理工具，推荐使用上方客户端列表里的 Clash Verge Rev。
+
+## 故障排查
+
+### 节点延迟很高
+
+使用Shadowrocket的「连通性测试」功能测试所有节点，选择延迟最低的使用。如果所有节点延迟都很高，建议更换机场服务商。
+
+### 为什么推荐稳定的机场服务？
+
+**不稳定机场的问题：**
+
+* 频繁掉线，需不断更换
+* 速度慢，延迟高
+* 高峰期拥挤卡顿
+* 安全性无保障
+* 无法解锁ChatGPT、Netflix等
+
+**稳定机场的优势：**
+
+* IEPL/IPLC专线，速度快延迟低
+* 稳定可靠，7x24小时运营
+* 完美解锁各类流媒体
+* 专业客服支持
+* 价格实惠
+* [付费机场](free-shadowrocket.md#fu-fei-ji-chang)
 
 ## Star History
 
